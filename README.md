@@ -17,4 +17,4 @@ For any inquiries, contact us at: [help.midiplayback@gmail.com](mailto:help.midi
 ## Privacy Policy
 
 You can view the full privacy policy here:  
-👉 [https://rvc69.github.io/MidiPlaybackAndroid/privacy.html](https://rvc69.github.io/MidiPlaybackAndroid/privacy.html)
+👉 [https://github.com/rvc69/MidiPlaybackAndroid/privacy.html](https://github.com/rvc69/MidiPlaybackAndroid/privacy.html)
